@@ -11,7 +11,7 @@
 
 공식 다운로드 페이지: [Bridge OEM Releases](https://github.com/bridge22cnc-tech/bridge-oem-downloads/releases).
 
-현재는 고객 안내 문서만 공개되어 있으며 **설치 파일은 아직 게시되지 않았습니다.** 최종 검수와 승인 후 Releases에서 Windows **Setup EXE**와 SHA256SUMS.txt를 제공합니다. GitHub가 자동 제공하는 Source code ZIP/tar.gz는 안내 문서 묶음이며 Windows 설치 프로그램이 아닙니다.
+현재는 고객 안내 문서만 공개되어 있으며 **설치 파일은 아직 게시되지 않았습니다.** 1.0.0의 Windows 설치 및 제품키 검수는 완료했으며, 공개 게시 승인 후 Releases에서 Windows **Setup EXE**와 SHA256SUMS.txt를 제공합니다. GitHub가 자동 제공하는 Source code ZIP/tar.gz는 안내 문서 묶음이며 Windows 설치 프로그램이 아닙니다.
 
 프로그램 다운로드와 무료 데모는 정식 제품키 구매와 구분됩니다. 제품키는 판매자가 별도로 전달합니다. 제품키·연락처·회사 DB·백업·인증 파일은 공개 게시판에 올리지 마세요.
 
